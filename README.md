@@ -1,1 +1,1 @@
-# EightPuzzle_Problem
+# Eight Puzzle Problem
