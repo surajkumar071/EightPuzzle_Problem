@@ -1,4 +1,4 @@
-class EightPuzzle      :
+class EightPuzzle:
     def __init__(self, initial_state):
         self.initial_state = initial_state
         self.goal_state = [1, 2, 3, 4, 5, 6, 7, 8, 0]
