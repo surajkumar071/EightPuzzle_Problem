@@ -1,5 +1,5 @@
 class EightPuzzle:
-    def __init__(self, initial_state).       bb.  cc. gt :
+    def __init__(self, initial_state).       bb.  cc. g :
         self.initial_state = initial_state
         self.goal_state = [1, 2, 3, 4, 5, 6, 7, 8, 0]
 
