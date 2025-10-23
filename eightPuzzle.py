@@ -1,5 +1,5 @@
 
-v. b. cc. k. VT. jk. ccc. jk.  BBB. bij. ft. 
+v. b. cc. k. VT. jk. ccc. jk.  BBB. bij
 
 
 
