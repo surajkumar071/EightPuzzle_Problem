@@ -1,5 +1,5 @@
 
-v. b. cc. k. VT. jk. ccc
+v. b. cc. k. VT. jk
 
 
 
