@@ -1,3 +1,8 @@
+
+v. b. cc. k. VT. jk. ccc. jk.  BBB. bij. ft. 
+
+
+
 class EightPuzzle:
     def __init__(self, initial_state):
         self.initial_state = initial_state
