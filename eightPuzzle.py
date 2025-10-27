@@ -1,5 +1,5 @@
 
-BNN vghbbfdh n. BB. m.
+BNN vghbbfdh n. BB.
 
 
 
