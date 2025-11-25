@@ -1,7 +1,6 @@
 
 
-g nn vn ffbj bj BB hh hbgu hj
-
+g nn vn ffbj bj BB hh 
 
 
 
