@@ -1,6 +1,6 @@
 
 
-g nn vn ffbj 
+g nn 
 
 
 
