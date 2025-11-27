@@ -1,4 +1,17 @@
 
+
+
+
+
+chk in fbmm bb vf. I. hu n bh n vh 
+
+
+
+
+
+
+
+
 class EightPuzzle:
     def __init__(self, initial_state):
         self.initial_state = initial_state
