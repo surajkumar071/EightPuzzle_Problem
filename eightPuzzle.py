@@ -3,7 +3,7 @@
 
 
 
-chk in fbmm bb vf. I. hu n bh n vh 
+chk in fbmm bb vf. I. hu n bh 
 
 
 
