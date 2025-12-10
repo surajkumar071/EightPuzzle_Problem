@@ -3,7 +3,7 @@
 
 
 
-chandani rat men hi nahi hai ki vah apane a
+chandani rat men hi nahi hai ki vah
 
 
 
