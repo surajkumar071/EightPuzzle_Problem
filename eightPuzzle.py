@@ -3,7 +3,7 @@
 
 
 
-chandani rat men hi nahi
+chandani rat me
 
 
 
